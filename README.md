@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋 I'm Clouder
 
-<!--
-**Clouder0/Clouder0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Chinese high school student who enjoys tech & life.  
+I had been a competitive programmer for 2 years.  
+I’m keen on developing and being a change maker.
 
-Here are some ideas to get you started:
+**You can visit my [portfolio](https://about.codein.icu) to know more about me.**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [AnkiLink](https://github.com/Clouder0/AnkiLink)
+
+![Clouder's GitHub stats](https://github-readme-stats.vercel.app/api?username=clouder0&count_private=true&show_icons=true&theme=tokyonight)
+
+# 你好 👋 我是 Clouder
+
+我是一名热爱科技和生活的中国高中生。  
+我曾经是一名算法竞赛生(OIer)。  
+我热爱开发，乐于改变世界。
+
+**你可以访问我的[个人介绍](https://about.codein.icu)以了解更多相关信息。**
