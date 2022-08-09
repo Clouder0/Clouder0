@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Clouder
 
-I am a Chinese high school student who enjoys tech & life.  
+I am a student at HIT(sz) who enjoys tech & life.  
+I major in Computer Science.
 I had been a competitive programmer for 2 years.  
 I’m keen on developing and being a change maker.
 
@@ -12,7 +13,7 @@ I’m keen on developing and being a change maker.
 
 # 你好 👋 我是 Clouder
 
-我是一名热爱科技和生活的中国高中生。  
+我是一名热爱科技和生活的哈工深计算机与科学专业本科生。  
 我曾经是一名算法竞赛生(OIer)。  
 我热爱开发，乐于改变世界。
 
