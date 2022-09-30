@@ -7,8 +7,6 @@ I’m keen on developing and being a change maker.
 
 **You can visit my [portfolio](https://about.codein.icu) to know more about me.**  
 
-- 🔭 I’m currently working on [AnkiLink](https://github.com/Clouder0/AnkiLink)
-
 ![Clouder's GitHub stats](https://github-readme-stats.vercel.app/api?username=clouder0&count_private=true&show_icons=true&theme=tokyonight)
 
 # 你好 👋 我是 Clouder
