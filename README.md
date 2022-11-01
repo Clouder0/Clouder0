@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Clouder
 
-I am a student at HIT(sz) who enjoys tech & life.  
+I am an undergraduate at HIT(sz) who enjoys tech & life.  
 I major in Computer Science.
-I had been a competitive programmer for 2 years.  
+I had been a competitive programmer for 2 years in high school. Now I'm preparing for XCPC.
 I’m keen on developing and being a change maker.
 
 **You can visit my [portfolio](https://about.codein.icu) to know more about me.**  
@@ -12,7 +12,7 @@ I’m keen on developing and being a change maker.
 # 你好 👋 我是 Clouder
 
 我是一名热爱科技和生活的哈工深计算机与科学专业本科生。  
-我曾经是一名算法竞赛生(OIer)。  
+我高中曾经是一名算法竞赛生(OIer)。现在正在准备 XCPC 相关比赛。 
 我热爱开发，乐于改变世界。
 
 **你可以访问我的[个人介绍](https://about.codein.icu)以了解更多相关信息。**
