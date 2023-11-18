@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Clouder
 
-I am an undergraduate at HIT(sz) who enjoys tech & life.  
-I major in Computer Science.
-I had been a competitive programmer for 2 years in high school. 
-I've participated in ICPC and got a Silver Medal.
-I've participated in CUMCU and got National First Prize.
-I enjoy real life programming.
+I am an undergraduate at HIT(sz) who enjoys tech & life.    
+I major in Computer Science.  
+I had been a competitive programmer for 2 years in high school.   
+I've participated in ICPC and got a Silver Medal.  
+I've participated in CUMCU and got National First Prize.   
+I enjoy real life programming.  
 I’m keen on developing and being a change maker.
 
 **You can visit my [portfolio](https://about.codein.icu) to know more about me.**  
