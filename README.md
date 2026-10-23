@@ -10,6 +10,8 @@ I’m keen on developing and being a change maker.
 
 **You can visit my [portfolio](https://about.codein.icu) to know more about me.**  
 
+[OpenPGP identity and signed statements](https://github.com/Clouder0/identity)
+
 ![Clouder's GitHub stats](https://github-readme-stats-clouder0.vercel.app/api?username=clouder0&count_private=true&show_icons=true&theme=tokyonight)
 
 # 你好 👋 我是 Clouder
@@ -20,3 +22,5 @@ I’m keen on developing and being a change maker.
 我热爱开发，乐于改变世界。
 
 **你可以访问我的[个人介绍](https://about.codein.icu)以了解更多相关信息。**
+
+[OpenPGP 身份与签名声明](https://github.com/Clouder0/identity)
